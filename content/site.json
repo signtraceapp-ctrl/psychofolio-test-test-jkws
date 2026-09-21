@@ -1,0 +1,129 @@
+{
+  "site": {
+    "name": "Ad Soyad",
+    "title": "Klinik Psikolog",
+    "email": "bilgi@klinik.com",
+    "address": "Nişantaşı, İstanbul",
+    "copyright": "Tüm hakları saklıdır."
+  },
+  "home": {
+    "badge": "SERENE",
+    "headline": "Zihnin sessizliğinde,",
+    "headlineAccent": "kendi yolunuzu",
+    "headlineSuffix": "bulun.",
+    "description": "Güvene dayalı, yavaş ve derinlemesine çalışan bir terapi yaklaşımı ile içsel dengenizi yeniden inşa edin.",
+    "cta": "Randevu Talep Et",
+    "cardTitle": "Sakinlik & Denge",
+    "cardSubtitle": "Bütünsel Terapi Yaklaşımı",
+    "quote": "Dışarı bakan rüya görür, içeri bakan uyanır.",
+    "quoteAuthor": "Carl Gustav Jung"
+  },
+  "metrics": [
+    { "val": "12+", "unit": "Yıl", "label": "Klinik Deneyim" },
+    { "val": "4500+", "unit": "", "label": "Tamamlanmış Seans" },
+    { "val": "8", "unit": "+", "label": "Akademik Yayın" },
+    { "val": "%100", "unit": "", "label": "Etik Taahhüt" }
+  ],
+  "services": [
+    {
+      "title": "Bireysel Psikoterapi",
+      "desc": "Stres, kaygı, depresyon, yaşam değişimleri ve anlam arayışında bireysel farkındalık yolculuğu.",
+      "duration": "50 dk",
+      "method": "CBT / Şema Terapi"
+    },
+    {
+      "title": "Çift & İlişki Terapisi",
+      "desc": "İlişki içi çatışmalar, iletişim problemleri ve bağlılık krizleri üzerine çiftler arası iyileşme.",
+      "duration": "75 dk",
+      "method": "Gottman / Sistemik"
+    },
+    {
+      "title": "EMDR Travma Terapisi",
+      "desc": "Zorlayıcı geçmiş deneyimlerin nörolojik düzeyde duyarsızlaştırılıp yeniden işlenmesi.",
+      "duration": "60 dk",
+      "method": "EMDR Protokolü"
+    }
+  ],
+  "about": {
+    "title": "Hakkımda",
+    "intro": "Klinik psikoloji yolculuğum, insanın kendisiyle barışma arayışını anlama arzusuyla başladı. 10 yılı aşkın süredir danışanlarımla güvenli bir farkındalık alanında buluşuyorum.",
+    "introSecond": "Zihinsel düğümlerin şefkatli bir eşlik etme süreciyle çözülebileceğine inanıyorum.",
+    "credentials": [
+      {
+        "year": "2014",
+        "title": "İstanbul Üniversitesi - Psikoloji Lisans",
+        "detail": "Birincilik derecesiyle mezuniyet"
+      },
+      {
+        "year": "2016",
+        "title": "Klinik Psikoloji Yüksek Lisansı",
+        "detail": "Kaygı bozuklukları tez çalışması"
+      },
+      {
+        "year": "2018",
+        "title": "EMDR Avrupa Akredite Uygulayıcı",
+        "detail": "EMDR Europe onaylı sertifika"
+      }
+    ]
+  },
+  "approach": {
+    "title": "Terapi Yaklaşımım",
+    "intro": "Terapi, yaşamın karmaşası içinde durup kendimize bakabildiğimiz, sessiz ve yargısız bir tanıklık alanıdır.",
+    "principles": [
+      {
+        "title": "Güvenli Alan",
+        "desc": "Tam gizliliğe ve şefkate dayalı bir terapötik alan."
+      },
+      {
+        "title": "Kişiye Özel Süreç",
+        "desc": "İhtiyaçlarınıza, hızınıza ve hedeflerinize özel planlama."
+      },
+      {
+        "title": "Aktif İş Birliği",
+        "desc": "İki uzmanın omuz omuza çalıştığı bir ortaklık."
+      }
+    ]
+  },
+  "articles": [
+    {
+      "title": "Kaygı Bozukluklarında Bilişsel Yeniden Yapılandırma",
+      "category": "Klinik",
+      "readTime": "8 dk",
+      "date": "28 Mayıs 2026"
+    },
+    {
+      "title": "Çocuklarda Duygusal Güvenlik Alanı Oluşturmak",
+      "category": "Çocuk-Ergen",
+      "readTime": "6 dk",
+      "date": "24 Temmuz 2026"
+    },
+    {
+      "title": "EMDR ile Travma Sonrası Büyüme",
+      "category": "Travma",
+      "readTime": "10 dk",
+      "date": "10 Nisan 2026"
+    }
+  ],
+  "faq": [
+    {
+      "q": "İlk terapi seansında ne yapılıyor?",
+      "a": "İlk seans, birbirimizi tanıdığımız, başvuru nedenlerinizi ve hedeflerinizi değerlendirdiğimiz bir ön değerlendirme seansıdır."
+    },
+    {
+      "q": "Terapi seansları ne sıklıkla yapılmalı?",
+      "a": "Başlangıçta haftada bir görüşme önerilir. Süreç ilerledikçe sıklık azaltılabilir."
+    },
+    {
+      "q": "Seansların gizliliği nasıl korunur?",
+      "a": "Tüm seanslarımız yasal ve etik sınırlar çerçevesinde %100 gizlilik ilkesine dayanır."
+    }
+  ],
+  "contact": {
+    "title": "Randevu ve İletişim",
+    "intro": "İçsel yolculuğunuza adım atmak veya ön bilgi almak için bana yazabilirsiniz.",
+    "formName": "Adınız",
+    "formEmail": "E-posta",
+    "formMessage": "Mesajınız",
+    "formSubmit": "Gönder"
+  }
+}
