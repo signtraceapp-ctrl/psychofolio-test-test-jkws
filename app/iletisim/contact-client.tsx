@@ -1,5 +1,7 @@
 "use client";
 
+import { useContactForm } from "@/lib/use-contact-form";
+
 import { useRef, useEffect, useState } from "react";
 import { gsap } from "gsap";
 import { Mail, MapPin } from "lucide-react";
