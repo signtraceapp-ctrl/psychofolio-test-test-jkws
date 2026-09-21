@@ -1,58 +1,94 @@
 {
   "site": {
-    "name": "Ad Soyad",
-    "title": "Klinik Psikolog",
-    "email": "bilgi@klinik.com",
-    "address": "Nişantaşı, İstanbul",
-    "copyright": "Tüm hakları saklıdır."
+    "name": "test test",
+    "title": "Klinik Psikologtest test",
+    "email": "futurescientistai@gmail.com",
+    "address": "test test",
+    "copyright": "Tüm hakları saklıdır.",
+    "hours": "test test 14:50-15:00",
+    "phone": "+905312775292"
   },
   "home": {
-    "badge": "SERENE",
-    "headline": "Zihnin sessizliğinde,",
-    "headlineAccent": "kendi yolunuzu",
-    "headlineSuffix": "bulun.",
-    "description": "Güvene dayalı, yavaş ve derinlemesine çalışan bir terapi yaklaşımı ile içsel dengenizi yeniden inşa edin.",
-    "cta": "Randevu Talep Et",
-    "cardTitle": "Sakinlik & Denge",
-    "cardSubtitle": "Bütünsel Terapi Yaklaşımı",
-    "quote": "Dışarı bakan rüya görür, içeri bakan uyanır.",
-    "quoteAuthor": "Carl Gustav Jung"
+    "headline": "Zihnin sessizliğinde,test test",
+    "headlineAccent": "kendi yolunuzutest test",
+    "headlineSuffix": "bulun.test test",
+    "description": "Güvene dayalı, yavaş ve derinlemesine çalışan bir terapi yaklaşımı ile içsel dengenizi yeniden inşa edin.test test",
+    "cta": "Randevu Talep test test",
+    "cardTitle": "test test",
+    "cardSubtitle": "test test",
+    "quote": "Terapi, kendinizle tanışma yolculuğunun en cesur adımıdır.test test",
+    "quoteAuthor": "test test",
+    "badge": "test test",
+    "ctaSecondary": "test test"
   },
   "metrics": [
-    { "val": "12+", "unit": "Yıl", "label": "Klinik Deneyim" },
-    { "val": "4500+", "unit": "", "label": "Tamamlanmış Seans" },
-    { "val": "8", "unit": "+", "label": "Akademik Yayın" },
-    { "val": "%100", "unit": "", "label": "Etik Taahhüt" }
+    {
+      "val": "17",
+      "unit": "Yıl",
+      "label": "test test"
+    },
+    {
+      "val": "test test",
+      "unit": "",
+      "label": "Tamamlanmış Seanstest test"
+    },
+    {
+      "val": "88",
+      "unit": "+",
+      "label": "test test"
+    }
   ],
   "services": [
     {
-      "title": "Bireysel Psikoterapi",
-      "desc": "Stres, kaygı, depresyon, yaşam değişimleri ve anlam arayışında bireysel farkındalık yolculuğu.",
-      "duration": "50 dk",
-      "method": "CBT / Şema Terapi"
+      "desc": "Stres, kaygı, depresyon, yaşam değişimleri ve anlam arayışında bireysel farkındalık yolculuğu.test test",
+      "title": "Bireysel Psikoterapitest test",
+      "method": "test test",
+      "duration": "5 dk"
     },
     {
-      "title": "Çift & İlişki Terapisi",
-      "desc": "İlişki içi çatışmalar, iletişim problemleri ve bağlılık krizleri üzerine çiftler arası iyileşme.",
-      "duration": "75 dk",
-      "method": "Gottman / Sistemik"
+      "desc": "İlişki içi çatışmalar, iletişim problemleri ve bağlılık krizleri üzerine çiftler arası iyileşme.test test",
+      "title": "Çift & İlişki Terapisitest test",
+      "method": "Gottman / Sistemiktest test",
+      "duration": "7 dk"
     },
     {
-      "title": "EMDR Travma Terapisi",
-      "desc": "Zorlayıcı geçmiş deneyimlerin nörolojik düzeyde duyarsızlaştırılıp yeniden işlenmesi.",
-      "duration": "60 dk",
-      "method": "EMDR Protokolü"
+      "desc": "Zorlayıcı geçmiş deneyimlerin nörolojik düzeyde duyarsızlaştırılıp yeniden işlenmesi.test test",
+      "title": "EMDR Travma Terapisitest test",
+      "method": "test testEMDR Protokolü",
+      "duration": "6 dk"
+    },
+    {
+      "desc": "test test",
+      "title": "test test",
+      "method": "test test",
+      "duration": "50 Dk"
+    },
+    {
+      "desc": "test test",
+      "title": "test test",
+      "method": "test test",
+      "duration": "45Dk"
     }
   ],
   "about": {
-    "title": "Hakkımda",
-    "intro": "Klinik psikoloji yolculuğum, insanın kendisiyle barışma arayışını anlama arzusuyla başladı. 10 yılı aşkın süredir danışanlarımla güvenli bir farkındalık alanında buluşuyorum.",
-    "introSecond": "Zihinsel düğümlerin şefkatli bir eşlik etme süreciyle çözülebileceğine inanıyorum.",
+    "title": "test test",
+    "intro": "test test",
+    "introSecond": "Her danışanımın benzersiz hikayesine saygı duyarak, birlikte iyileşme yolculuğuna çıkıyoruz.test test",
+    "calloutTitle": "Terapi Felsefemtest test",
+    "calloutText": "Her insan, kendi hikayesinin yazarı olmaya layıktır.test test",
+    "organizations": [
+      "Bilişsel Davranışçı Terapitest test",
+      "EMDR Terapisitest test",
+      "Şema Terapitest test",
+      "Çift ve Aile Terapisitest test",
+      "test test",
+      "test testtest test"
+    ],
     "credentials": [
       {
-        "year": "2014",
-        "title": "İstanbul Üniversitesi - Psikoloji Lisans",
-        "detail": "Birincilik derecesiyle mezuniyet"
+        "year": "2010",
+        "title": "test test",
+        "detail": "test test"
       },
       {
         "year": "2016",
@@ -60,70 +96,100 @@
         "detail": "Kaygı bozuklukları tez çalışması"
       },
       {
-        "year": "2018",
-        "title": "EMDR Avrupa Akredite Uygulayıcı",
-        "detail": "EMDR Europe onaylı sertifika"
+        "year": "2020",
+        "title": "test test",
+        "detail": "test test"
       }
-    ]
+    ],
+    "badge": "test test"
   },
   "approach": {
-    "title": "Terapi Yaklaşımım",
-    "intro": "Terapi, yaşamın karmaşası içinde durup kendimize bakabildiğimiz, sessiz ve yargısız bir tanıklık alanıdır.",
+    "title": "Çalışma Prensiplerimtest test",
+    "intro": "Her danışan benzersizdir ve terapi süreci buna göre şekillenir.test test",
     "principles": [
       {
-        "title": "Güvenli Alan",
-        "desc": "Tam gizliliğe ve şefkate dayalı bir terapötik alan."
+        "desc": "Tam gizliliğe ve şefkate dayalı bir terapötik alan.test test",
+        "title": "Güvenli Alantest test"
       },
       {
-        "title": "Kişiye Özel Süreç",
-        "desc": "İhtiyaçlarınıza, hızınıza ve hedeflerinize özel planlama."
+        "desc": "İhtiyaçlarınıza, hızınıza ve hedeflerinize özel planlama.test test",
+        "title": "Kişiye Özel Süreçtest test"
       },
       {
-        "title": "Aktif İş Birliği",
-        "desc": "İki uzmanın omuz omuza çalıştığı bir ortaklık."
+        "desc": "İki uzmanın omuz omuza çalıştığı bir ortaklık.test test",
+        "title": "Aktif İş Birliğitest test"
+      },
+      {
+        "desc": "test test",
+        "title": "test test"
       }
     ]
   },
   "articles": [
     {
+      "date": "28 Mayıs 2026",
       "title": "Kaygı Bozukluklarında Bilişsel Yeniden Yapılandırma",
       "category": "Klinik",
-      "readTime": "8 dk",
-      "date": "28 Mayıs 2026"
+      "readTime": "8 dk"
     },
     {
+      "date": "24 Temmuz 2026",
       "title": "Çocuklarda Duygusal Güvenlik Alanı Oluşturmak",
       "category": "Çocuk-Ergen",
-      "readTime": "6 dk",
-      "date": "24 Temmuz 2026"
+      "readTime": "6 dk"
     },
     {
+      "date": "10 Nisan 2026",
       "title": "EMDR ile Travma Sonrası Büyüme",
       "category": "Travma",
-      "readTime": "10 dk",
-      "date": "10 Nisan 2026"
+      "readTime": "10 dk"
     }
   ],
   "faq": [
     {
-      "q": "İlk terapi seansında ne yapılıyor?",
-      "a": "İlk seans, birbirimizi tanıdığımız, başvuru nedenlerinizi ve hedeflerinizi değerlendirdiğimiz bir ön değerlendirme seansıdır."
+      "a": "İlk seans, birbirimizi tanıdığımız, başvuru nedenlerinizi ve hedeflerinizi değerlendirdiğimiz bir ön değerlendirme seansıdır.test test",
+      "q": "İlk terapi seansında ne yapılıyor?test test"
     },
     {
-      "q": "Terapi seansları ne sıklıkla yapılmalı?",
-      "a": "Başlangıçta haftada bir görüşme önerilir. Süreç ilerledikçe sıklık azaltılabilir."
+      "a": "Başlangıçta haftada bir görüşme önerilir. Süreç ilerledikçe sıklık azaltılabilir.test test",
+      "q": "Terapi seansları ne sıklıkla yapılmalı?test test"
     },
     {
-      "q": "Seansların gizliliği nasıl korunur?",
-      "a": "Tüm seanslarımız yasal ve etik sınırlar çerçevesinde %100 gizlilik ilkesine dayanır."
+      "a": "Tüm seanslarımız yasal ve etik sınırlar çerçevesinde %100 gizlilik ilkesine dayanır.test test",
+      "q": "Seansların gizliliği nasıl korunur?test test"
+    },
+    {
+      "a": "test test",
+      "q": "test test"
+    },
+    {
+      "a": "test test",
+      "q": "test test"
+    },
+    {
+      "a": "test testtest testtest test",
+      "q": "test testtest test"
     }
   ],
   "contact": {
     "title": "Randevu ve İletişim",
-    "intro": "İçsel yolculuğunuza adım atmak veya ön bilgi almak için bana yazabilirsiniz.",
-    "formName": "Adınız",
+    "intro": "İlk görüşme için randevu almak veya sorularınızı iletmek için formu kullanabilirsiniz.",
+    "formName": "Ad Soyad",
     "formEmail": "E-posta",
     "formMessage": "Mesajınız",
     "formSubmit": "Gönder"
+  },
+  "seo": {
+    "jobTitle": "Klinik Psikologtest test",
+    "description": "test test, test test merkezli klinik psikologtest test.",
+    "specialties": [],
+    "credentials": [
+      "test test (2010)",
+      "Klinik Psikoloji Yüksek Lisansı (2016)",
+      "test test (2020)"
+    ],
+    "location": "test test",
+    "socialLinks": [],
+    "openingHours": "Mo-Fr 09:00-18:00"
   }
 }
